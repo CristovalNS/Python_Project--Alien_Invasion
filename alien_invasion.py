@@ -1,3 +1,5 @@
+# Driver code to run the game
+
 import sys
 
 import pygame
